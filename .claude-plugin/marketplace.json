@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "soapbox-skills-dev",
+  "description": "Soapbox shared skills for Claude Code and Paperclip agents",
+  "owner": {
+    "name": "Soapbox",
+    "email": "engineering@soapbox.build"
+  },
+  "plugins": [
+    {
+      "name": "soapbox-skills",
+      "description": "Soapbox shared skills for Claude Code and Paperclip agents",
+      "source": "./",
+      "author": {
+        "name": "Soapbox",
+        "email": "engineering@soapbox.build"
+      }
+    }
+  ]
+}
