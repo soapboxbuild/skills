@@ -1,0 +1,92 @@
+{
+  "skills": [
+    {
+      "key": "company-creator",
+      "path": "skills/company-creator"
+    },
+    {
+      "key": "create-agent-adapter",
+      "path": "skills/create-agent-adapter"
+    },
+    {
+      "key": "create-issue-interaction-ui",
+      "path": "skills/create-issue-interaction-ui"
+    },
+    {
+      "key": "crrem",
+      "path": "skills/crrem"
+    },
+    {
+      "key": "deal-with-security-advisory",
+      "path": "skills/deal-with-security-advisory"
+    },
+    {
+      "key": "delegate",
+      "path": "skills/delegate"
+    },
+    {
+      "key": "diagnose-why-work-stopped",
+      "path": "skills/diagnose-why-work-stopped"
+    },
+    {
+      "key": "doc-maintenance",
+      "path": "skills/doc-maintenance"
+    },
+    {
+      "key": "n8n",
+      "path": "skills/n8n"
+    },
+    {
+      "key": "paperclip",
+      "path": "skills/paperclip"
+    },
+    {
+      "key": "paperclip-converting-plans-to-tasks",
+      "path": "skills/paperclip-converting-plans-to-tasks"
+    },
+    {
+      "key": "paperclip-create-agent",
+      "path": "skills/paperclip-create-agent"
+    },
+    {
+      "key": "paperclip-create-plugin",
+      "path": "skills/paperclip-create-plugin"
+    },
+    {
+      "key": "paperclip-dev",
+      "path": "skills/paperclip-dev"
+    },
+    {
+      "key": "para-memory-files",
+      "path": "skills/para-memory-files"
+    },
+    {
+      "key": "pr-report",
+      "path": "skills/pr-report"
+    },
+    {
+      "key": "prcheckloop",
+      "path": "skills/prcheckloop"
+    },
+    {
+      "key": "release",
+      "path": "skills/release"
+    },
+    {
+      "key": "release-changelog",
+      "path": "skills/release-changelog"
+    },
+    {
+      "key": "release-changelog-discord-message",
+      "path": "skills/release-changelog-discord-message"
+    },
+    {
+      "key": "soapbox-plugin-design",
+      "path": "skills/soapbox-plugin-design"
+    },
+    {
+      "key": "terminal-bench-loop",
+      "path": "skills/terminal-bench-loop"
+    }
+  ]
+}
