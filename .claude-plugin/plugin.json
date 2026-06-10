@@ -1,0 +1,7 @@
+{
+  "name": "soapbox-skills",
+  "version": "1.0.0",
+  "description": "Soapbox shared skills for Claude Code and Paperclip agents",
+  "author": { "name": "Soapbox", "email": "engineering@soapbox.build" },
+  "repository": "https://github.com/soapboxbuild/skills"
+}
